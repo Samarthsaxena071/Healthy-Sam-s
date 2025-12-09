@@ -1,0 +1,7 @@
+{
+  "name": "Healthy Sam's",
+  "description": "Real-time ER/Urgent Care wait times and AI-powered self-triage assistant to reduce overcrowding.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
